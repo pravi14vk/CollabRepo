@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-paro https://github.com/pravi14vk/CollabRepo.gitro
-=======
-My name is Shreya
->>>>>>> 46e8aff997d8f2fdaa650fe49b726ebcdda1b17e
+enti idhu
+baba
